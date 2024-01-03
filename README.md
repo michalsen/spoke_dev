@@ -4,9 +4,9 @@
 Module development for testing out ideas.
 
 ## spoke_node_creation
-### Creates new nodes on Spoke creation
+Creates new nodes on Spoke creation
 
 ## spoke_site_uid
-### Assigns UID to Spoke field on node creation
+Assigns UID to Spoke field on node creation
 
 
